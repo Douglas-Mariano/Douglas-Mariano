@@ -17,7 +17,6 @@ Java e para poder mostrar meu potencial.
 - Desenvolvedor BackEnd em desenvolvimento! 😊 
 - Formação Análise e Desenvolvimento de sistemas, instituição UNESA. 💻
 - Inglês iniciante, instituição Yes! Idiomas.
-- Santander Bootcamp Fullstack Developer, em andamento.
 
 #
 ### Você também pode me encontrar aqui:
