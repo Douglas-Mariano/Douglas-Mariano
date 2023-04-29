@@ -1,36 +1,68 @@
-# Douglas
+# Douglas Mariano - Analista Desenvolvedor
 
-Busco uma vaga de Desenvolvedor Java Jr, 
-#
+Olá! Eu sou o Douglas Mariano, um Analista Desenvolvedor em transição de carreira, com experiência em suporte técnico e habilidades em tecnologias como Java, Spring, API REST e Git. Sou formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNESA e possuo diversas certificações na área de programação.
 
-## Perfil
+## Experiência
 
-Gosto de desafios e de superar meus limites, exatamente por isso estou
-entrando na área de desenvolvimento. Gosto de transparência
-principalmente na vida profissional e o valor que considero mais
-importante é a ética. Não tenho experiência profissional na área, porém
-busco uma oportunidade para aprender mais a desenvolver software em
-Java e para poder mostrar meu potencial.
+- Alterdata Software, Teresópolis - Suporte técnico (Home Office) | Março de 2020 - Janeiro de 2021
 
-#
+## Formação Acadêmica
 
-- Desenvolvedor BackEnd em desenvolvimento! 😊 
-- Formação Análise e Desenvolvimento de sistemas, instituição UNESA. 💻
-- Inglês iniciante, instituição Yes! Idiomas.
+- UNESA, Teresópolis - Superior Tecnólogo Completo | Julho de 2019 - Julho de 2022
+  Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
 
-#
-### Você também pode me encontrar aqui:
+## Cursos e Certificações
 
-<div align="center">  
-  <a href="https://www.linkedin.com/in/dgmariano/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
+- Capacitação Java com Spring e Angular - Minsait
+- Programador de Sistemas de Informações - UNESA
+- Programador de Internet - UNESA
+- Fundamentos em Informática - UCA
+- CRUD Completo com Spring Boot REST API - JDev Treinamento
 
-#
+## Habilidades e Competências
 
-### Minhas habilidades até agora:
-<div align="center">
-  <img align="center" alt="JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+- Java
+- Spring
+- API REST
+- Git
+- Noções de BD
+- Angular
+- HTML e CSS
+
+## Sobre mim
+
+Sou apaixonado por programação e sempre em busca de aprendizado e desafios. Procuro novas oportunidades para aplicar minhas habilidades em tecnologia, solucionar problemas e criar soluções inovadoras.
+
+<i class="fab fa-java"></i> 
+
+<i class="fab fa-git"></i>
+
+<i class="fab fa-spring"></i> 
+
+<i class="fas fa-database"></i>  
+
+<i class="fab fa-angular"></i> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
