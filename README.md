@@ -33,15 +33,6 @@ Olá! Eu sou o Douglas Mariano, um Analista Desenvolvedor em transição de carr
 
 Sou apaixonado por programação e sempre em busca de aprendizado e desafios. Procuro novas oportunidades para aplicar minhas habilidades em tecnologia, solucionar problemas e criar soluções inovadoras.
 
-<i class="fab fa-java"></i> 
-
-<i class="fab fa-git"></i>
-
-<i class="fab fa-spring"></i> 
-
-<i class="fas fa-database"></i>  
-
-<i class="fab fa-angular"></i> 
 
 
 
