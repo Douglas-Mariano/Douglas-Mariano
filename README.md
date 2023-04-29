@@ -1,6 +1,10 @@
 # Douglas Mariano - Analista Desenvolvedor
 
+## Sobre mim
+
 Olá! Eu sou o Douglas Mariano, um Analista Desenvolvedor em transição de carreira, com experiência em suporte técnico e habilidades em tecnologias como Java, Spring, API REST e Git. Sou formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNESA e possuo diversas certificações na área de programação.
+Sou apaixonado por programação e sempre em busca de aprendizado e desafios. Procuro novas oportunidades para aplicar minhas habilidades em tecnologia, solucionar problemas e criar soluções inovadoras.
+
 
 ## Experiência
 
@@ -25,13 +29,6 @@ Olá! Eu sou o Douglas Mariano, um Analista Desenvolvedor em transição de carr
           
           
           
-            
-          
-
-## Sobre mim
-
-Sou apaixonado por programação e sempre em busca de aprendizado e desafios. Procuro novas oportunidades para aplicar minhas habilidades em tecnologia, solucionar problemas e criar soluções inovadoras.
-
 
 
 
