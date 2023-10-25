@@ -17,6 +17,7 @@ Sou apaixonado por programação e sempre em busca de aprendizado e desafios. Pr
 
 ## Cursos e Certificações
 
+- Criação de uma API em Java com Spring Boot - Rocketseat
 - Capacitação Java com Spring e Angular - Minsait
 - Programador de Sistemas de Informações - UNESA
 - Programador de Internet - UNESA
